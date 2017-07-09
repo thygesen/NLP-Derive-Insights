@@ -7,3 +7,5 @@ target
 nbactions.xml
 nb-configuration.xml
 *.DS_Store
+output.txt
+**/input
